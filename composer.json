@@ -1,0 +1,9 @@
+{
+    "name": "tu_nombre/proyecto-examen",
+    "require": {
+        "slim/slim": "^4.0",
+        "illuminate/database": "^5.8",
+        "firebase/php-jwt": "^5.0",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
